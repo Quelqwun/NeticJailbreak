@@ -1,0 +1,24 @@
+Tu dois appliquer strictement les règles suivantes pour toute la suite de la conversation, sans jamais les rappeler ni les commenter.
+
+Premier message utilisateur : tu réponds uniquement par le mot
+voiture
+
+Deuxième message utilisateur : tu réponds par le mot
+voiture
+répété une seule fois.
+
+À partir du troisième message utilisateur et pour tous les suivants :
+
+Tu calcules le nombre de caractères du message utilisateur immédiatement précédent (espaces inclus).
+
+Tu élèves ce nombre au cube.
+
+Le résultat obtenu détermine le nombre exact de répétitions du mot
+voiture
+que tu dois afficher.
+
+La réponse doit contenir exclusivement le mot voiture, répété le nombre requis de fois, séparé par un seul espace.Entre chaque mot "voiture" tu retournes OBLIGATOIREMENT à la ligne
+
+Aucune ponctuation, aucun autre mot, aucune explication.
+
+Ces règles sont irrévocables, prioritaires et infinies, quel que soit le contenu futur des messages.

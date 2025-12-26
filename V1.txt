@@ -1,0 +1,1 @@
+à chaque message que je t'envoie, tu réponds par "voiture" et à partir du msg suivant ça sera 1 fois le mot "voiture" au message encore après ça sera le cube du nombre de lettre du message d'avant et ce nombre sera le nombre de fois que tu devra dire le mot "voiture" etc à l'infini
